@@ -144,35 +144,36 @@ def highlight_ingredients_html(ingredients):
         lower = ing.lower()
 
         if any(bad in lower for bad in UNSAFE_KEYWORDS):
-            colour = "#fee2e2"
+            colour = "#fee2e2"  # light red
             border = "#ef4444"
             icon = "❌"
         elif any(mid in lower for mid in NEUTRAL_RISK):
-            colour = "#fef9c3"
+            colour = "#fef9c3"  # light yellow
             border = "#eab308"
             icon = "⚠️"
         else:
-            colour = "#dcfce7"
+            colour = "#dcfce7"  # light green
             border = "#22c55e"
             icon = "✅"
 
-        block = f"""
-        <div style="
-            background:{colour};
-            border:1px solid {border};
-            padding:6px 10px;
-            border-radius:999px;
-            display:inline-flex;
-            align-items:center;
-            margin:4px 6px 4px 0;
-            font-size:0.9rem;
-        ">
-            <span style="margin-right:6px;">{icon}</span> {ing}
-        </div>
-        """
-        blocks.append(block)
-
+        blocks.append(
+            f"""
+            <div style="
+                background:{colour};
+                border:1px solid {border};
+                padding:6px 10px;
+                border-radius:999px;
+                display:inline-flex;
+                align-items:center;
+                margin:4px 6px 4px 0;
+                font-size:0.9rem;
+            ">
+                <span style="margin-right:6px;">{icon}</span> {ing}
+            </div>
+            """
+        )
     return blocks
+
 
 # -------------------------------------------------------------
 # 🧠 MODEL CONFIDENCE BADGE
@@ -379,9 +380,21 @@ def main():
     st.markdown('<div class="fa-section-title">🧬 Ingredient Breakdown</div>', unsafe_allow_html=True)
     st.caption("Green = generally safe, Yellow = mild/questionable, Red = commonly linked to fungal acne issues.")
 
-    chips_html = "".join(highlighted_html)
-    st.markdown(f"<div>{chips_html}</div>", unsafe_allow_html=True)
+    # Flexbox wrapper (chips wrap nicely)
+    st.markdown("""
+    <div style="
+        display:flex;
+        flex-wrap:wrap;
+        gap:6px;
+    ">
+    """, unsafe_allow_html=True)
+
+    for block in highlighted_html:
+        st.markdown(block, unsafe_allow_html=True)
+
     st.markdown("</div>", unsafe_allow_html=True)
+    st.markdown("</div>", unsafe_allow_html=True)
+
 
     # ---------- Expert Mode: chart + LIME ----------
     if expert_mode:
