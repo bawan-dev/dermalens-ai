@@ -11,7 +11,7 @@ from lime.lime_text import LimeTextExplainer
 from src.preprocessing import join_ingredients_for_model, split_ingredients
 from src.safety_score import calculate_safety_score
 
-MODEL_PATH = os.path.join("models", "tfidf_multiclass_model.joblib")
+MODEL_PATH = "models/tfidf_multiclass_model.joblib"
 
 
 @st.cache_resource
