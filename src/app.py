@@ -144,36 +144,35 @@ def highlight_ingredients_html(ingredients):
         lower = ing.lower()
 
         if any(bad in lower for bad in UNSAFE_KEYWORDS):
-            colour = "#fee2e2"  # light red
+            colour = "#fee2e2"
             border = "#ef4444"
             icon = "❌"
         elif any(mid in lower for mid in NEUTRAL_RISK):
-            colour = "#fef9c3"  # light yellow
+            colour = "#fef9c3"
             border = "#eab308"
             icon = "⚠️"
         else:
-            colour = "#dcfce7"  # light green
+            colour = "#dcfce7"
             border = "#22c55e"
             icon = "✅"
 
-        blocks.append(
-            f"""
-            <div style="
-                background:{colour};
-                border:1px solid {border};
-                padding:6px 10px;
-                border-radius:999px;
-                display:inline-flex;
-                align-items:center;
-                margin:4px 6px 4px 0;
-                font-size:0.9rem;
-            ">
-                <span style="margin-right:6px;">{icon}</span> {ing}
-            </div>
-            """
-        )
-    return blocks
+        block = f"""
+        <div style="
+            background:{colour};
+            border:1px solid {border};
+            padding:6px 10px;
+            border-radius:999px;
+            display:inline-flex;
+            align-items:center;
+            margin:4px 6px 4px 0;
+            font-size:0.9rem;
+        ">
+            <span style="margin-right:6px;">{icon}</span> {ing}
+        </div>
+        """
+        blocks.append(block)
 
+    return blocks
 
 # -------------------------------------------------------------
 # 🧠 MODEL CONFIDENCE BADGE
