@@ -1,0 +1,1002 @@
+ingredients,label,score
+
+"Aqua, Glycerin, Panthenol, Allantoin, Sodium Hyaluronate","safe",10
+"Aqua, Niacinamide, Betaine, Centella Extract","safe",9
+"Aqua, Green Tea Extract, Panthenol, Sodium PCA","safe",9
+"Aqua, Tocopherol, Sodium Hyaluronate, Trehalose","safe",10
+"Aqua, Madecassoside, Glycerin, Panthenol","safe",9
+"Aqua, Bisabolol, Allantoin, Glycerin","safe",8
+"Aqua, Panthenol, Aloe Vera Extract, Sodium PCA","safe",9
+"Aqua, Betaine, Trehalose, Panthenol","safe",9
+"Aqua, Glycerin, Sodium Hyaluronate, Oat Extract","safe",10
+"Aqua, Glycerin, Urea, Panthenol","safe",9
+"Aqua, Dimethicone, Glycerin, Carbomer","neutral",6
+"Aqua, Propanediol, Dimethicone, Fragrance","neutral",5
+"Aqua, Caprylic/Capric Triglyceride, Glycerin","neutral",7
+"Aqua, Phenoxyethanol, Dimethicone, Carbomer","neutral",6
+"Aqua, Butylene Glycol, Dimethicone, 1,2-Hexanediol","neutral",6
+"Aqua, PEG-40 Hydrogenated Castor Oil, Glycerin","neutral",5
+"Aqua, Isododecane, Dimethicone, Phenoxyethanol","neutral",6
+"Aqua, Carbomer, Propylene Glycol, Fragrance","neutral",5
+"Aqua, Glycerin, Dimethicone, Ethylhexylglycerin","neutral",6
+"Aqua, Triethanolamine, Carbomer, Phenoxyethanol","neutral",7
+"Aqua, Lauric Acid, Myristic Acid, Stearic Acid","malassezia_trigger",0
+"Aqua, Polysorbate 20, Oleic Acid","malassezia_trigger",2
+"Aqua, Isopropyl Myristate, Glyceryl Stearate","malassezia_trigger",1
+"Aqua, Sorbitan Oleate, Oleic Acid","malassezia_trigger",1
+"Aqua, Cetyl Alcohol, Stearyl Alcohol, Polysorbate 60","malassezia_trigger",2
+"Aqua, Myristyl Myristate, Polysorbate 80","malassezia_trigger",1
+"Aqua, Oleyl Oleate, Polysorbate 40","malassezia_trigger",2
+"Aqua, Sorbitan Stearate, Oleyl Alcohol","malassezia_trigger",1
+"Aqua, Stearic Acid, Polysorbate 65","malassezia_trigger",1
+"Aqua, Cetearyl Alcohol, Oleic Acid","malassezia_trigger",2
+"Aqua, Cetearyl Alcohol, Petrolatum, Mineral Oil","comedogenic",4
+"Aqua, Isopropyl Palmitate, Myristyl Lactate","comedogenic",3
+"Aqua, Coconut Oil, Stearic Acid","comedogenic",3
+"Aqua, Wheat Germ Oil, Cocoa Butter","comedogenic",4
+"Aqua, Glyceryl Oleate, Lanolin","comedogenic",4
+"Aqua, Almond Oil, Cetyl Alcohol","comedogenic",5
+"Aqua, Shea Butter, Cetearyl Alcohol","comedogenic",4
+"Aqua, Avocado Oil, Glyceryl Stearate","comedogenic",4
+"Aqua, Olive Oil, Myristyl Myristate","comedogenic",3
+"Aqua, Castor Oil, Oleyl Alcohol","comedogenic",4
+"Aqua, Alcohol Denat, Menthol, Fragrance","irritant",3
+"Aqua, Linalool, Limonene, Alcohol","irritant",4
+"Aqua, Menthol, Camphor, Alcohol","irritant",2
+"Aqua, Eucalyptus Oil, Fragrance","irritant",4
+"Aqua, Witch Hazel, Alcohol, Fragrance","irritant",3
+"Aqua, Benzyl Alcohol, Limonene","irritant",3
+"Aqua, Phenoxyethanol, Linalool","irritant",4
+"Aqua, Cinnamon Extract, Alcohol","irritant",3
+"Aqua, Tea Tree Oil, Menthol","irritant",4
+"Aqua, Peppermint Oil, Alcohol Denat","irritant",3
+"Aqua, Fragrance, Limonene, Linalool, Citronellol","fragrance_heavy",5
+"Aqua, Parfum, Benzyl Salicylate, Coumarin","fragrance_heavy",6
+"Aqua, Fragrance, Hexyl Cinnamal, Geraniol","fragrance_heavy",5
+"Aqua, Parfum, Eugenol, Citral","fragrance_heavy",5
+"Aqua, Fragrance, Alpha-Isomethyl Ionone","fragrance_heavy",6
+"Aqua, Parfum, Hydroxycitronellal","fragrance_heavy",5
+"Aqua, Fragrance, Amyl Cinnamal","fragrance_heavy",5
+"Aqua, Parfum, Linalool, Coumarin","fragrance_heavy",6
+"Aqua, Fragrance, Benzyl Cinnamate","fragrance_heavy",5
+"Aqua, Parfum, Citronellol, Limonene","fragrance_heavy",6
+"Aqua, Lauric Acid, Linoleic Acid, Oleic Acid","fatty_acid",1
+"Aqua, Palmitic Acid, Stearic Acid","fatty_acid",2
+"Aqua, Capric Acid, Caprylic Acid","fatty_acid",3
+"Aqua, Arachidic Acid, Behenic Acid","fatty_acid",2
+"Aqua, Myristic Acid, Palmitoleic Acid","fatty_acid",1
+"Aqua, Stearic Acid, Capric Acid","fatty_acid",2
+"Aqua, Oleic Acid, Myristic Acid","fatty_acid",1
+"Aqua, Linoleic Acid, Lauric Acid","fatty_acid",1
+"Aqua, Caprylic Acid, Stearic Acid","fatty_acid",2
+"Aqua, Palmitic Acid, Oleic Acid","fatty_acid",2
+"Aqua, Petrolatum, Mineral Oil, Paraffin","emollient_heavy",4
+"Aqua, Isododecane, Dimethicone, Squalane","emollient_heavy",6
+"Aqua, Shea Butter, Caprylic/Capric Triglyceride","emollient_heavy",4
+"Aqua, Cocoa Butter, Glycerin","emollient_heavy",3
+"Aqua, Mango Seed Butter, Squalane","emollient_heavy",5
+"Aqua, Almond Oil, Jojoba Oil","emollient_heavy",4
+"Aqua, Olive Oil, Cetearyl Alcohol","emollient_heavy",3
+"Aqua, Coconut Oil, Glycerin","emollient_heavy",4
+"Aqua, Sunflower Seed Oil, Squalene","emollient_heavy",5
+"Aqua, Avocado Oil, Dimethicone","emollient_heavy",4
+"Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine","surfactant",4
+"Aqua, Sodium Lauroyl Sarcosinate, Decyl Glucoside","surfactant",6
+"Aqua, Sodium C14-16 Olefin Sulfonate, Coco-Betaine","surfactant",5
+"Aqua, Sodium Cocoyl Isethionate, Lauryl Glucoside","surfactant",6
+"Aqua, Sodium Myristoyl Glutamate, Sodium Lauroyl Sarcosinate","surfactant",6
+"Aqua, Sodium Methyl Cocoyl Taurate, Coco-Glucoside","surfactant",6
+"Aqua, Sodium Lauryl Sulfate, Cocamide DEA","surfactant",4
+"Aqua, Decyl Glucoside, Lauryl Glucoside","surfactant",7
+"Aqua, Sodium Cocoyl Glycinate, Sodium Lauroyl Oat Amino Acids","surfactant",6
+"Aqua, Disodium Laureth Sulfosuccinate, Coco-Betaine","surfactant",5
+"Aqua, Phenoxyethanol, Ethylhexylglycerin","preservative",7
+"Aqua, Sodium Benzoate, Potassium Sorbate","preservative",6
+"Aqua, Chlorphenesin, Phenoxyethanol","preservative",7
+"Aqua, Benzyl Alcohol, Dehydroacetic Acid","preservative",5
+"Aqua, Phenoxyethanol, Caprylyl Glycol","preservative",7
+"Aqua, DMDM Hydantoin, Sodium Citrate","preservative",6
+"Aqua, Imidazolidinyl Urea, Phenoxyethanol","preservative",7
+"Aqua, Diazolidinyl Urea, Potassium Sorbate","preservative",6
+"Aqua, Methylparaben, Propylparaben","preservative",8
+"Aqua, Phenoxyethanol, Sorbic Acid","preservative",7
+"Aqua, Glycerin, Sodium PCA, Panthenol, Madecassoside","safe",9
+"Aqua, Allantoin, Niacinamide, Hyaluronic Acid","safe",9
+"Aqua, Betaine, Trehalose, Green Tea Extract","safe",10
+"Aqua, Aloe Extract, Panthenol, Sodium Hyaluronate","safe",9
+"Aqua, Glycerin, Urea, Betaine","safe",8
+"Aqua, Soy Extract, Centella Extract, Panthenol","safe",9
+"Aqua, Tocopherol, Sodium PCA, Allantoin","safe",9
+"Aqua, Panthenol, Marshmallow Root Extract, Glycerin","safe",10
+"Aqua, Oat Extract, Betaine, Niacinamide","safe",9
+"Aqua, Glycerin, Trehalose, Aloe Vera","safe",8
+"Aqua, Dimethicone, Propanediol, Phenoxyethanol","neutral",6
+"Aqua, Caprylic/Capric Triglyceride, Carbomer, Fragrance","neutral",5
+"Aqua, PEG-6 Caprylic/Capric Glycerides, Dimethicone","neutral",7
+"Aqua, Butylene Glycol, Dimethicone, Fragrance","neutral",6
+"Aqua, Carbomer, Glycerin, PEG-40 Hydrogenated Castor Oil","neutral",5
+"Aqua, Propylene Glycol, 1,2-Hexanediol, Dimethicone","neutral",6
+"Aqua, Ethylhexylglycerin, Phenoxyethanol, Dimethicone","neutral",6
+"Aqua, Glyceryl Acrylate, Carbomer, Dimethicone","neutral",7
+"Aqua, Sorbitol, Dimethicone, Fragrance","neutral",5
+"Aqua, Sodium Citrate, Butylene Glycol, Dimethicone","neutral",6
+"Aqua, Isopropyl Myristate, Stearic Acid, Polysorbate 60","malassezia_trigger",1
+"Aqua, Myristic Acid, Lauric Acid, Glyceryl Stearate","malassezia_trigger",0
+"Aqua, Sorbitan Oleate, Oleic Acid, Polysorbate 80","malassezia_trigger",2
+"Aqua, Polysorbate 20, Cetyl Alcohol, Stearyl Alcohol","malassezia_trigger",2
+"Aqua, Oleic Acid, Sorbitan Stearate, Myristic Acid","malassezia_trigger",1
+"Aqua, Glyceryl Oleate, Polysorbate 40, Stearic Acid","malassezia_trigger",2
+"Aqua, Ceteareth-20, Oleyl Alcohol, Myristyl Myristate","malassezia_trigger",0
+"Aqua, Isopropyl Palmitate, Polysorbate 65, Oleic Acid","malassezia_trigger",1
+"Aqua, Cetyl Esters, Polysorbate 80, Stearyl Alcohol","malassezia_trigger",2
+"Aqua, Myristyl Lactate, Oleyl Oleate, Stearic Acid","malassezia_trigger",1
+"Aqua, Coconut Oil, Myristyl Myristate","comedogenic",3
+"Aqua, Wheat Germ Oil, Glyceryl Stearate","comedogenic",4
+"Aqua, Lanolin, Stearic Acid, Petrolatum","comedogenic",5
+"Aqua, Olive Oil, Cetyl Palmitate","comedogenic",4
+"Aqua, Cocoa Butter, Coconut Oil","comedogenic",3
+"Aqua, Shea Butter, Cetearyl Alcohol, Almond Oil","comedogenic",4
+"Aqua, Jojoba Oil, Glyceryl Stearate","comedogenic",3
+"Aqua, Avocado Oil, Stearyl Alcohol","comedogenic",4
+"Aqua, Myristyl Alcohol, Castor Oil","comedogenic",3
+"Aqua, Caprylic/Capric Triglyceride, Cocoa Butter","comedogenic",5
+"Aqua, Alcohol Denat, Menthol, Tea Tree Oil","irritant",3
+"Aqua, Eucalyptus Oil, Camphor, Fragrance","irritant",4
+"Aqua, Peppermint Oil, Linalool, Alcohol","irritant",3
+"Aqua, Witch Hazel, Limonene, Alcohol","irritant",4
+"Aqua, Benzyl Alcohol, Cinnamon Extract","irritant",3
+"Aqua, Phenoxyethanol, Menthol, Camphor","irritant",4
+"Aqua, Lavender Oil, Alcohol","irritant",3
+"Aqua, Clove Oil, Menthol","irritant",4
+"Aqua, Lemon Essential Oil, Alcohol Denat","irritant",3
+"Aqua, Star Anise Oil, Phenoxyethanol","irritant",4
+"Aqua, Fragrance, Limonene, Linalool","fragrance_heavy",5
+"Aqua, Parfum, Citral, Hexyl Cinnamal","fragrance_heavy",6
+"Aqua, Fragrance, Coumarin, Geraniol","fragrance_heavy",5
+"Aqua, Parfum, Benzyl Benzoate, Citronellol","fragrance_heavy",6
+"Aqua, Fragrance, Linalool, Alpha-Isomethyl Ionone","fragrance_heavy",5
+"Aqua, Parfum, Eugenol, Limonene","fragrance_heavy",6
+"Aqua, Fragrance, Hydroxycitronellal","fragrance_heavy",5
+"Aqua, Parfum, Cinnamal, Coumarin","fragrance_heavy",6
+"Aqua, Fragrance, Benzyl Salicylate","fragrance_heavy",5
+"Aqua, Parfum, Citronellol, Amyl Cinnamal","fragrance_heavy",6
+"Aqua, Lauric Acid, Palmitic Acid","fatty_acid",1
+"Aqua, Linoleic Acid, Stearic Acid","fatty_acid",2
+"Aqua, Caprylic Acid, Capric Acid","fatty_acid",3
+"Aqua, Oleic Acid, Arachidic Acid","fatty_acid",2
+"Aqua, Palmitic Acid, Myristic Acid","fatty_acid",1
+"Aqua, Caprylic Acid, Stearic Acid","fatty_acid",3
+"Aqua, Linolenic Acid, Palmitoleic Acid","fatty_acid",2
+"Aqua, Lauric Acid, Capric Acid","fatty_acid",1
+"Aqua, Oleic Acid, Caprylic Acid","fatty_acid",2
+"Aqua, Palmitic Acid, Behenic Acid","fatty_acid",3
+"Aqua, Petrolatum, Paraffin, Mineral Oil","emollient_heavy",4
+"Aqua, Dimethicone, Squalane, Isododecane","emollient_heavy",6
+"Aqua, Shea Butter, Glycerin, Caprylic/Capric Triglyceride","emollient_heavy",4
+"Aqua, Cocoa Seed Butter, Jojoba Oil","emollient_heavy",3
+"Aqua, Sunflower Seed Oil, Squalane","emollient_heavy",5
+"Aqua, Olive Oil, Caprylic Triglyceride","emollient_heavy",4
+"Aqua, Avocado Oil, Dimethicone","emollient_heavy",4
+"Aqua, Cocoa Butter, Petrolatum","emollient_heavy",3
+"Aqua, Jojoba Oil, Mineral Oil","emollient_heavy",4
+"Aqua, Shea Butter, Squalene","emollient_heavy",6
+"Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine","surfactant",4
+"Aqua, Decyl Glucoside, Sodium Lauroyl Sarcosinate","surfactant",6
+"Aqua, Sodium Cocoyl Isethionate, Coco-Betaine","surfactant",5
+"Aqua, Sodium C14-16 Olefin Sulfonate, Lauryl Glucoside","surfactant",6
+"Aqua, Sodium Myristoyl Glutamate, Disodium Laureth Sulfosuccinate","surfactant",7
+"Aqua, Sodium Lauryl Sulfate, Cocamide DEA","surfactant",4
+"Aqua, Lauryl Glucoside, Coco-Glucoside","surfactant",6
+"Aqua, Sodium Lauroyl Oat Amino Acids, Decyl Glucoside","surfactant",7
+"Aqua, Disodium Laureth Sulfosuccinate, Coco-Betaine","surfactant",5
+"Aqua, Sodium Lauroyl Glycinate, Coco-Glucoside","surfactant",6
+"Aqua, Phenoxyethanol, Ethylhexylglycerin","preservative",7
+"Aqua, Sodium Benzoate, Potassium Sorbate","preservative",6
+"Aqua, Benzyl Alcohol, Dehydroacetic Acid","preservative",5
+"Aqua, Phenoxyethanol, Caprylyl Glycol","preservative",7
+"Aqua, Chlorphenesin, Phenoxyethanol","preservative",6
+"Aqua, Methylparaben, Propylparaben","preservative",8
+"Aqua, Phenoxyethanol, Sorbic Acid","preservative",7
+"Aqua, Diazolidinyl Urea, Potassium Sorbate","preservative",6
+"Aqua, DMDM Hydantoin, Sodium Citrate","preservative",6
+"Aqua, Imidazolidinyl Urea, Phenoxyethanol","preservative",7
+"Aqua, Glycerin, Sodium PCA, Panthenol, Centella Extract","safe",9
+"Aqua, Hyaluronic Acid, Betaine, Allantoin","safe",10
+"Aqua, Niacinamide, Panthenol, Trehalose","safe",9
+"Aqua, Glycerin, Green Tea Extract, Panthenol","safe",9
+"Aqua, Madecassoside, Glycerin, Sodium PCA","safe",8
+"Aqua, Panthenol, Aloe Vera, Sodium Hyaluronate","safe",10
+"Aqua, Oat Extract, Betaine, Glycerin","safe",9
+"Aqua, Centella Extract, Panthenol, Allantoin","safe",9
+"Aqua, Urea, Glycerin, Sodium PCA","safe",8
+"Aqua, Glycerin, Trehalose, Panthenol","safe",9
+"Aqua, Hyaluronic Acid, Panthenol, Green Tea Extract","safe",10
+"Aqua, Bisabolol, Panthenol, Glycerin","safe",8
+"Aqua, Glycerin, Aloe Extract, Betaine","safe",9
+"Aqua, Marshmallow Root Extract, Panthenol","safe",9
+"Aqua, Allantoin, Sodium PCA, Glycerin","safe",9
+"Aqua, Niacinamide, Panthenol, Sodium Hyaluronate","safe",10
+"Aqua, Sodium Hyaluronate, Oat Extract","safe",9
+"Aqua, Glycerin, Betaine, Panthenol","safe",9
+"Aqua, Green Tea Extract, Centella Extract","safe",10
+"Aqua, Sodium PCA, Trehalose, Glycerin","safe",8
+"Aqua, Aloe Vera, Urea, Betaine","safe",9
+"Aqua, Panthenol, Allantoin, Madecassoside","safe",9
+"Aqua, Glycerin, Sodium Hyaluronate, Oat Extract","safe",10
+"Aqua, Trehalose, Panthenol, Aloe Extract","safe",9
+"Aqua, Centella Extract, Bisabolol, Glycerin","safe",9
+"Aqua, Betaine, Allantoin, Hyaluronic Acid","safe",10
+"Aqua, Green Tea Extract, Marshmallow Extract","safe",9
+"Aqua, Panthenol, Oat Extract, Sodium PCA","safe",8
+"Aqua, Glycerin, Urea, Aloe Extract","safe",9
+"Aqua, Trehalose, Sodium PCA, Niacinamide","safe",10
+"Aqua, Dimethicone, Propanediol, Carbomer","neutral",6
+"Aqua, Caprylic/Capric Triglyceride, Fragrance","neutral",5
+"Aqua, Dimethicone, PEG-40 Hydrogenated Castor Oil","neutral",6
+"Aqua, Butylene Glycol, Dimethicone","neutral",7
+"Aqua, Carbomer, Propylene Glycol, Fragrance","neutral",5
+"Aqua, Isododecane, Dimethicone, Phenoxyethanol","neutral",6
+"Aqua, Propanediol, Carbomer, Dimethicone","neutral",6
+"Aqua, PEG-20 Methyl Glucose Sesquistearate","neutral",7
+"Aqua, Glycerin, Dimethicone, Triethanolamine","neutral",6
+"Aqua, Ethylhexylglycerin, Dimethicone","neutral",6
+"Aqua, Butylene Glycol, Carbomer, Dimethicone","neutral",7
+"Aqua, Propanediol, PEG-6 Caprylic/Capric Glycerides","neutral",6
+"Aqua, Fragrance, Dimethicone","neutral",5
+"Aqua, Carbomer, Sodium Citrate, Dimethicone","neutral",6
+"Aqua, Phenoxyethanol, Propylene Glycol","neutral",5
+"Aqua, Betaine, Dimethicone","neutral",7
+"Aqua, Dimethicone, Sorbitol, Phenoxyethanol","neutral",6
+"Aqua, Sodium Citrate, Dimethicone","neutral",7
+"Aqua, PEG-7 Glyceryl Cocoate, Dimethicone","neutral",6
+"Aqua, Carbomer, Propanediol, Dimethicone","neutral",6
+"Aqua, Ethoxydiglycol, Dimethicone","neutral",7
+"Aqua, PEG-12 Dimethicone, Fragrance","neutral",5
+"Aqua, Pentylene Glycol, Dimethicone","neutral",7
+"Aqua, PEG-8, Dimethicone","neutral",6
+"Aqua, 1,2-Hexanediol, Dimethicone","neutral",6
+"Aqua, Sorbitol, PEG-40 Hydrogenated Castor Oil","neutral",5
+"Aqua, Fragrance, Carbomer, Dimethicone","neutral",5
+"Aqua, Butylene Glycol, Dimethicone, PEG-40","neutral",6
+"Aqua, Carbomer, Propylene Glycol","neutral",6
+"Aqua, Phenoxyethanol, Dimethicone","neutral",7
+"Aqua, Lauric Acid, Myristic Acid, Stearic Acid","malassezia_trigger",0
+"Aqua, Polysorbate 20, Oleic Acid","malassezia_trigger",2
+"Aqua, Isopropyl Myristate, Glyceryl Stearate","malassezia_trigger",1
+"Aqua, Sorbitan Oleate, Oleic Acid","malassezia_trigger",1
+"Aqua, Cetyl Alcohol, Stearyl Alcohol, Polysorbate 60","malassezia_trigger",2
+"Aqua, Myristyl Myristate, Polysorbate 80","malassezia_trigger",1
+"Aqua, Oleyl Oleate, Polysorbate 40","malassezia_trigger",2
+"Aqua, Sorbitan Stearate, Oleyl Alcohol","malassezia_trigger",1
+"Aqua, Stearic Acid, Polysorbate 65","malassezia_trigger",1
+"Aqua, Cetearyl Alcohol, Oleic Acid","malassezia_trigger",2
+"Aqua, Isopropyl Palmitate, Myristyl Myristate","malassezia_trigger",1
+"Aqua, Polysorbate 80, Oleyl Alcohol","malassezia_trigger",2
+"Aqua, Cetyl Esters, Stearyl Alcohol, Polysorbate 60","malassezia_trigger",1
+"Aqua, Myristic Acid, Oleic Acid","malassezia_trigger",1
+"Aqua, Myristyl Lactate, Oleyl Oleate","malassezia_trigger",1
+"Aqua, Polysorbate 20, Glyceryl Oleate","malassezia_trigger",2
+"Aqua, Sorbitan Oleate, Stearic Acid","malassezia_trigger",1
+"Aqua, Polysorbate 40, Myristyl Myristate","malassezia_trigger",2
+"Aqua, Cetyl Alcohol, Myristic Acid","malassezia_trigger",1
+"Aqua, Oleic Acid, Polysorbate 60","malassezia_trigger",2
+"Aqua, Isopropyl Isostearate, Oleyl Alcohol","malassezia_trigger",1
+"Aqua, Stearyl Alcohol, Myristic Acid","malassezia_trigger",2
+"Aqua, Polysorbate 65, Cetyl Alcohol","malassezia_trigger",1
+"Aqua, Isopropyl Laurate, Glyceryl Stearate","malassezia_trigger",2
+"Aqua, Sorbitan Stearate, Oleic Acid","malassezia_trigger",1
+"Aqua, Oleyl Alcohol, Stearic Acid","malassezia_trigger",1
+"Aqua, Myristyl Myristate, Polysorbate 60","malassezia_trigger",2
+"Aqua, Cetyl Alcohol, Oleyl Oleate","malassezia_trigger",1
+"Aqua, Myristic Acid, Sorbitan Oleate","malassezia_trigger",1
+"Aqua, Oleic Acid, Polysorbate 80","malassezia_trigger",2
+"Aqua, Cetearyl Alcohol, Petrolatum","comedogenic",4
+"Aqua, Isopropyl Palmitate, Myristyl Lactate","comedogenic",3
+"Aqua, Coconut Oil, Stearic Acid","comedogenic",3
+"Aqua, Wheat Germ Oil, Cocoa Butter","comedogenic",4
+"Aqua, Glyceryl Oleate, Lanolin","comedogenic",4
+"Aqua, Almond Oil, Cetyl Alcohol","comedogenic",5
+"Aqua, Shea Butter, Cetearyl Alcohol","comedogenic",4
+"Aqua, Avocado Oil, Glyceryl Stearate","comedogenic",4
+"Aqua, Olive Oil, Myristyl Myristate","comedogenic",3
+"Aqua, Castor Oil, Oleyl Alcohol","comedogenic",4
+"Aqua, Mango Butter, Avocado Oil","comedogenic",4
+"Aqua, Vegetable Oil, Cetyl Palmitate","comedogenic",3
+"Aqua, Lanolin Alcohol, Stearic Acid","comedogenic",5
+"Aqua, Cocoa Butter, Mineral Oil","comedogenic",4
+"Aqua, Kernel Oil, Stearyl Alcohol","comedogenic",3
+"Aqua, Rosehip Oil, Cetearyl Alcohol","comedogenic",4
+"Aqua, Jojoba Oil, Glyceryl Stearate","comedogenic",3
+"Aqua, Palm Oil, Cetyl Esters","comedogenic",4
+"Aqua, Castor Oil, Cocoa Seed Butter","comedogenic",4
+"Aqua, Safflower Oil, Cetyl Alcohol","comedogenic",5
+"Aqua, Macadamia Oil, Stearic Acid","comedogenic",4
+"Aqua, Almond Oil, Cetearyl Alcohol","comedogenic",4
+"Aqua, Shea Oil, Stearyl Alcohol","comedogenic",3
+"Aqua, Wheat Germ Oil, Lanolin","comedogenic",5
+"Aqua, Argan Oil, Cetyl Palmitate","comedogenic",4
+"Aqua, Coconut Oil, Glyceryl Stearate","comedogenic",3
+"Aqua, Jojoba Oil, Myristyl Myristate","comedogenic",4
+"Aqua, Olive Oil, Lanolin Alcohol","comedogenic",4
+"Aqua, Almond Oil, Stearic Acid","comedogenic",3
+"Aqua, Avocado Oil, Cetyl Alcohol","comedogenic",4
+"Aqua, Alcohol Denat, Menthol","irritant",3
+"Aqua, Linalool, Limonene, Fragrance","irritant",4
+"Aqua, Menthol, Camphor, Alcohol","irritant",2
+"Aqua, Eucalyptus Oil, Fragrance","irritant",4
+"Aqua, Witch Hazel, Alcohol, Fragrance","irritant",3
+"Aqua, Phenoxyethanol, Linalool","irritant",3
+"Aqua, Citrus Extract, Alcohol","irritant",4
+"Aqua, Cinnamon Extract, Alcohol","irritant",3
+"Aqua, Tea Tree Oil, Menthol","irritant",4
+"Aqua, Peppermint Oil, Alcohol Denat","irritant",3
+"Aqua, Lemon Oil, Alcohol","irritant",4
+"Aqua, Lavender Oil, Alcohol","irritant",3
+"Aqua, Witch Hazel, Menthol","irritant",2
+"Aqua, Limonene, Ethanol","irritant",4
+"Aqua, Benzyl Alcohol, Menthol","irritant",3
+"Aqua, Fragrance, Alcohol","irritant",3
+"Aqua, Menthol, Eucalyptus Oil","irritant",4
+"Aqua, Linalool, Tea Tree Oil","irritant",4
+"Aqua, Cinnamon Oil, Limonene","irritant",4
+"Aqua, Star Anise Oil, Menthol","irritant",3
+"Aqua, Camphor, Alcohol","irritant",2
+"Aqua, Lemon Extract, Fragrance","irritant",4
+"Aqua, Mint Oil, Alcohol","irritant",3
+"Aqua, Phenoxyethanol, Citrus Oil","irritant",4
+"Aqua, Eucalyptus Extract, Limonene","irritant",3
+"Aqua, Peppermint Extract, Alcohol","irritant",3
+"Aqua, Clove Oil, Menthol","irritant",4
+"Aqua, Rosemary Oil, Alcohol","irritant",3
+"Aqua, Tea Tree Oil, Camphor","irritant",3
+"Aqua, Menthol, Cinnamon Oil","irritant",4
+"Aqua, Fragrance, Limonene, Linalool","fragrance_heavy",5
+"Aqua, Parfum, Citral, Coumarin","fragrance_heavy",6
+"Aqua, Fragrance, Hexyl Cinnamal","fragrance_heavy",5
+"Aqua, Parfum, Eugenol, Geraniol","fragrance_heavy",6
+"Aqua, Fragrance, Alpha-Isomethyl Ionone","fragrance_heavy",5
+"Aqua, Parfum, Linalool, Citronellol","fragrance_heavy",6
+"Aqua, Fragrance, Benzyl Alcohol","fragrance_heavy",5
+"Aqua, Parfum, Hydroxycitronellal","fragrance_heavy",6
+"Aqua, Fragrance, Amyl Cinnamal","fragrance_heavy",5
+"Aqua, Parfum, Cinnamal, Limonene","fragrance_heavy",6
+"Aqua, Fragrance, Coumarin, Linalool","fragrance_heavy",5
+"Aqua, Parfum, Benzyl Salicylate","fragrance_heavy",6
+"Aqua, Fragrance, Citronellol","fragrance_heavy",5
+"Aqua, Parfum, Limonene, Hexyl Cinnamal","fragrance_heavy",6
+"Aqua, Fragrance, Cinnamal","fragrance_heavy",5
+"Aqua, Parfum, Geraniol","fragrance_heavy",6
+"Aqua, Fragrance, Alpha-Isomethyl Ionone","fragrance_heavy",5
+"Aqua, Parfum, Linalool","fragrance_heavy",6
+"Aqua, Fragrance, Citral","fragrance_heavy",5
+"Aqua, Parfum, Coumarin","fragrance_heavy",6
+"Aqua, Fragrance, Eugenol","fragrance_heavy",5
+"Aqua, Parfum, Linalool, Cinnamal","fragrance_heavy",6
+"Aqua, Fragrance, Benzyl Cinnamate","fragrance_heavy",5
+"Aqua, Parfum, Citronellol","fragrance_heavy",6
+"Aqua, Fragrance, Linalool, Citral","fragrance_heavy",5
+"Aqua, Parfum, Eugenol, Limonene","fragrance_heavy",6
+"Aqua, Fragrance, Cinnamal, Hexyl Cinnamal","fragrance_heavy",5
+"Aqua, Parfum, Benzyl Salicylate, Linalool","fragrance_heavy",6
+"Aqua, Fragrance, Geraniol","fragrance_heavy",5
+"Aqua, Parfum, Citral, Limonene","fragrance_heavy",6
+"Aqua, Lauric Acid, Palmitic Acid","fatty_acid",1
+"Aqua, Stearic Acid, Oleic Acid","fatty_acid",2
+"Aqua, Capric Acid, Caprylic Acid","fatty_acid",3
+"Aqua, Arachidic Acid, Behenic Acid","fatty_acid",2
+"Aqua, Myristic Acid, Palmitoleic Acid","fatty_acid",1
+"Aqua, Stearic Acid, Caprylic Acid","fatty_acid",3
+"Aqua, Oleic Acid, Myristic Acid","fatty_acid",1
+"Aqua, Linoleic Acid, Lauric Acid","fatty_acid",1
+"Aqua, Caprylic Acid, Stearic Acid","fatty_acid",3
+"Aqua, Palmitic Acid, Oleic Acid","fatty_acid",2
+"Aqua, Linolenic Acid, Palmitoleic Acid","fatty_acid",2
+"Aqua, Capric Acid, Arachidic Acid","fatty_acid",3
+"Aqua, Lauric Acid, Myristic Acid","fatty_acid",1
+"Aqua, Stearic Acid, Caprylic Acid","fatty_acid",3
+"Aqua, Oleic Acid, Palmitic Acid","fatty_acid",2
+"Aqua, Linoleic Acid, Behenic Acid","fatty_acid",2
+"Aqua, Lauric Acid, Caprylic Acid","fatty_acid",1
+"Aqua, Palmitoleic Acid, Stearic Acid","fatty_acid",3
+"Aqua, Myristic Acid, Oleic Acid","fatty_acid",1
+"Aqua, Capric Acid, Linoleic Acid","fatty_acid",3
+"Aqua, Palmitic Acid, Arachidic Acid","fatty_acid",2
+"Aqua, Behenic Acid, Myristic Acid","fatty_acid",1
+"Aqua, Caprylic Acid, Linolenic Acid","fatty_acid",3
+"Aqua, Oleic Acid, Stearic Acid","fatty_acid",2
+"Aqua, Myristic Acid, Palmitic Acid","fatty_acid",1
+"Aqua, Linoleic Acid, Caprylic Acid","fatty_acid",3
+"Aqua, Stearic Acid, Linolenic Acid","fatty_acid",2
+"Aqua, Palmitoleic Acid, Arachidic Acid","fatty_acid",2
+"Aqua, Lauric Acid, Linolenic Acid","fatty_acid",1
+"Aqua, Capric Acid, Behenic Acid","fatty_acid",3
+"Aqua, Petrolatum, Mineral Oil, Paraffin","emollient_heavy",4
+"Aqua, Shea Butter, Squalane","emollient_heavy",6
+"Aqua, Cocoa Butter, Jojoba Oil","emollient_heavy",3
+"Aqua, Sunflower Oil, Squalene","emollient_heavy",5
+"Aqua, Olive Oil, Caprylic/Capric Triglyceride","emollient_heavy",4
+"Aqua, Avocado Oil, Dimethicone","emollient_heavy",4
+"Aqua, Mango Seed Butter, Glycerin","emollient_heavy",3
+"Aqua, Paraffin, Jojoba Oil","emollient_heavy",4
+"Aqua, Shea Butter, Almond Oil","emollient_heavy",5
+"Aqua, Mineral Oil, Squalane","emollient_heavy",6
+"Aqua, Cocoa Butter, Olive Oil","emollient_heavy",4
+"Aqua, Dimethicone, Mineral Oil","emollient_heavy",5
+"Aqua, Mango Butter, Squalene","emollient_heavy",4
+"Aqua, Petrolatum, Jojoba Oil","emollient_heavy",5
+"Aqua, Shea Oil, Olive Oil","emollient_heavy",4
+"Aqua, Avocado Oil, Mango Butter","emollient_heavy",3
+"Aqua, Sunflower Oil, Dimethicone","emollient_heavy",5
+"Aqua, Paraffin, Almond Oil","emollient_heavy",4
+"Aqua, Coconut Oil, Shea Butter","emollient_heavy",3
+"Aqua, Glycerin, Petrolatum","emollient_heavy",4
+"Aqua, Jojoba Oil, Mineral Oil","emollient_heavy",5
+"Aqua, Shea Butter, Dimethicone","emollient_heavy",6
+"Aqua, Olive Oil, Squalane","emollient_heavy",5
+"Aqua, Sunflower Oil, Glycerin","emollient_heavy",4
+"Aqua, Cocoa Butter, Avocado Oil","emollient_heavy",3
+"Aqua, Paraffin, Glycerin","emollient_heavy",4
+"Aqua, Mango Seed Butter, Jojoba Oil","emollient_heavy",4
+"Aqua, Mineral Oil, Shea Oil","emollient_heavy",5
+"Aqua, Squalene, Shea Butter","emollient_heavy",6
+"Aqua, Almond Oil, Mango Butter","emollient_heavy",4
+"Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine","surfactant",4
+"Aqua, Decyl Glucoside, Sodium Lauroyl Sarcosinate","surfactant",6
+"Aqua, Sodium Cocoyl Isethionate, Coco-Betaine","surfactant",5
+"Aqua, Sodium C14-16 Olefin Sulfonate, Lauryl Glucoside","surfactant",6
+"Aqua, Sodium Myristoyl Glutamate, Disodium Laureth Sulfosuccinate","surfactant",7
+"Aqua, Sodium Lauryl Sulfate, Cocamide DEA","surfactant",4
+"Aqua, Lauryl Glucoside, Coco-Glucoside","surfactant",6
+"Aqua, Sodium Lauroyl Oat Amino Acids, Decyl Glucoside","surfactant",7
+"Aqua, Disodium Laureth Sulfosuccinate, Coco-Betaine","surfactant",5
+"Aqua, Sodium Lauroyl Glycinate, Coco-Glucoside","surfactant",6
+"Aqua, Decyl Glucoside, Lauryl Betaine","surfactant",6
+"Aqua, Coco-Glucoside, Sodium Lauroyl Sarcosinate","surfactant",7
+"Aqua, Sodium Cocoyl Glutamate, Sodium Cocoyl Isethionate","surfactant",6
+"Aqua, Sodium Laureth-5 Carboxylate, Coco-Betaine","surfactant",5
+"Aqua, Sodium Lauroyl Taurate, Decyl Glucoside","surfactant",6
+"Aqua, Sodium Cocoyl Glycinate, Cocamidopropyl Betaine","surfactant",6
+"Aqua, Coco-Glucoside, Glyceryl Oleate","surfactant",7
+"Aqua, Sodium Lauroyl Sulfate, Sodium Laureth Sulfate","surfactant",4
+"Aqua, Disodium Cocoyl Glutamate, Decyl Glucoside","surfactant",6
+"Aqua, Sodium C14-16 Olefin Sulfonate, Betaine","surfactant",5
+"Aqua, Lauryl Glucoside, Sodium Cocoyl Alaninate","surfactant",7
+"Aqua, Cocamidopropyl Betaine, Sodium Lauroyl Oat Amino Acids","surfactant",6
+"Aqua, Sodium Cocoyl Sarcosinate, Coco-Glucoside","surfactant",6
+"Aqua, Sodium Methyl Cocoyl Taurate, Cocamidopropyl Betaine","surfactant",6
+"Aqua, Sodium Lauroyl Glutamate, Lauryl Glucoside","surfactant",7
+"Aqua, Decyl Glucoside, Sodium Cocoyl Isethionate","surfactant",6
+"Aqua, Sodium Lauryl Sulfoacetate, Coco-Betaine","surfactant",5
+"Aqua, Disodium Laureth Sulfosuccinate, Sodium Cocoyl Glycinate","surfactant",6
+"Aqua, Coco-Glucoside, Sodium Lauroyl Glutamate","surfactant",7
+"Aqua, Sodium Methyl Oleoyl Taurate, Coco-Betaine","surfactant",5
+"Aqua, Phenoxyethanol, Ethylhexylglycerin","preservative",7
+"Aqua, Sodium Benzoate, Potassium Sorbate","preservative",6
+"Aqua, Chlorphenesin, Phenoxyethanol","preservative",7
+"Aqua, Benzyl Alcohol, Dehydroacetic Acid","preservative",5
+"Aqua, Phenoxyethanol, Caprylyl Glycol","preservative",7
+"Aqua, DMDM Hydantoin, Sodium Citrate","preservative",6
+"Aqua, Diazolidinyl Urea, Phenoxyethanol","preservative",7
+"Aqua, Sorbic Acid, Sodium Benzoate","preservative",6
+"Aqua, Methylparaben, Propylparaben","preservative",8
+"Aqua, Imidazolidinyl Urea, Phenoxyethanol","preservative",7
+"Aqua, Benzyl Alcohol, Sorbic Acid","preservative",6
+"Aqua, Sodium Benzoate, Dehydroacetic Acid","preservative",6
+"Aqua, Phenoxyethanol, Potassium Sorbate","preservative",7
+"Aqua, Chlorphenesin, Ethylhexylglycerin","preservative",7
+"Aqua, Paraben Mix, Sodium Citrate","preservative",8
+"Aqua, Phenoxyethanol, Ethylhexylglycerin, Sorbic Acid","preservative",7
+"Aqua, Potassium Sorbate, Sodium Citrate","preservative",6
+"Aqua, Benzyl Alcohol, Phenoxyethanol","preservative",6
+"Aqua, Sodium Benzoate, Ethylhexylglycerin","preservative",7
+"Aqua, Methylparaben, Sodium Citrate","preservative",8
+"Aqua, Imidazolidinyl Urea, Sorbic Acid","preservative",6
+"Aqua, Phenoxyethanol, Benzyl Alcohol","preservative",6
+"Aqua, Ethylhexylglycerin, Sorbic Acid","preservative",7
+"Aqua, Dehydroacetic Acid, Potassium Sorbate","preservative",6
+"Aqua, Sodium Benzoate, Phenoxyethanol","preservative",7
+"Aqua, Potassium Sorbate, Chlorphenesin","preservative",6
+"Aqua, Phenoxyethanol, Imidazolidinyl Urea","preservative",7
+"Aqua, Sorbic Acid, Sodium Citrate","preservative",6
+"Aqua, Benzyl Alcohol, Methylparaben","preservative",8
+"Aqua, Sodium Benzoate, Paraben Mix","preservative",7
+"Aqua, Glycerin, Sodium PCA, Panthenol, Chamomile Extract","safe",9
+"Aqua, Niacinamide, Trehalose, Green Tea Extract","safe",10
+"Aqua, Betaine, Hyaluronic Acid, Allantoin","safe",9
+"Aqua, Sodium Hyaluronate, Oat Extract, Panthenol","safe",9
+"Aqua, Madecassoside, Glycerin, Aloe Vera","safe",8
+"Aqua, Urea, Sodium PCA, Centella Extract","safe",9
+"Aqua, Panthenol, Trehalose, Green Tea Extract","safe",10
+"Aqua, Glycerin, Allantoin, Marshmallow Extract","safe",9
+"Aqua, Sodium Hyaluronate, Betaine, Aloe Extract","safe",9
+"Aqua, Centella Extract, Niacinamide, Glycerin","safe",10
+"Aqua, Dimethicone, Propanediol, PEG-40 Hydrogenated Castor Oil","neutral",6
+"Aqua, Carbomer, Fragrance, Butylene Glycol","neutral",5
+"Aqua, PEG-6 Caprylic/Capric Glycerides, Propylene Glycol","neutral",6
+"Aqua, Dimethicone, Ethylhexylglycerin, Phenoxyethanol","neutral",7
+"Aqua, Sorbitol, Dimethicone, Carbomer","neutral",6
+"Aqua, Sodium Citrate, Dimethicone, Propanediol","neutral",7
+"Aqua, PEG-12 Dimethicone, Fragrance","neutral",5
+"Aqua, Butylene Glycol, Dimethicone, Triethanolamine","neutral",6
+"Aqua, Carbomer, Propanediol, Dimethicone","neutral",7
+"Aqua, Propylene Glycol, PEG-40 Castor Oil","neutral",6
+"Aqua, Polysorbate 60, Lauric Acid, Myristic Acid","malassezia_trigger",1
+"Aqua, Oleic Acid, Sorbitan Oleate","malassezia_trigger",2
+"Aqua, Isopropyl Myristate, Polysorbate 80","malassezia_trigger",1
+"Aqua, Cetearyl Alcohol, Oleic Acid","malassezia_trigger",2
+"Aqua, Stearic Acid, Myristyl Myristate","malassezia_trigger",1
+"Aqua, Polysorbate 40, Stearyl Alcohol","malassezia_trigger",2
+"Aqua, Glyceryl Stearate, Lauric Acid","malassezia_trigger",1
+"Aqua, Oleyl Oleate, Polysorbate 20","malassezia_trigger",2
+"Aqua, Myristyl Lactate, Stearic Acid","malassezia_trigger",1
+"Aqua, Cetyl Alcohol, Polysorbate 65","malassezia_trigger",2
+"Aqua, Cetearyl Alcohol, Cocoa Butter","comedogenic",4
+"Aqua, Almond Oil, Cetyl Palmitate","comedogenic",4
+"Aqua, Shea Butter, Cetearyl Alcohol","comedogenic",4
+"Aqua, Olive Oil, Glyceryl Stearate","comedogenic",5
+"Aqua, Coconut Oil, Stearic Acid","comedogenic",3
+"Aqua, Wheat Germ Oil, Lanolin","comedogenic",5
+"Aqua, Avocado Oil, Myristyl Myristate","comedogenic",4
+"Aqua, Castor Oil, Stearyl Alcohol","comedogenic",3
+"Aqua, Jojoba Oil, Cetyl Alcohol","comedogenic",4
+"Aqua, Palm Oil, Glyceryl Stearate","comedogenic",4
+"Aqua, Alcohol Denat, Menthol, Camphor","irritant",3
+"Aqua, Linalool, Limonene, Fragrance","irritant",4
+"Aqua, Citrus Oil, Alcohol","irritant",3
+"Aqua, Eucalyptus Oil, Menthol","irritant",4
+"Aqua, Phenoxyethanol, Tea Tree Oil","irritant",3
+"Aqua, Lavender Oil, Alcohol","irritant",4
+"Aqua, Witch Hazel, Limonene","irritant",3
+"Aqua, Star Anise Oil, Alcohol Denat","irritant",3
+"Aqua, Peppermint Oil, Menthol","irritant",4
+"Aqua, Cinnamon Bark Oil, Alcohol","irritant",3
+"Aqua, Fragrance, Limonene, Citral","fragrance_heavy",5
+"Aqua, Parfum, Linalool, Coumarin","fragrance_heavy",6
+"Aqua, Fragrance, Hexyl Cinnamal","fragrance_heavy",5
+"Aqua, Parfum, Geraniol, Citronellol","fragrance_heavy",6
+"Aqua, Fragrance, Alpha-Isomethyl Ionone","fragrance_heavy",5
+"Aqua, Parfum, Benzyl Alcohol","fragrance_heavy",6
+"Aqua, Fragrance, Eugenol","fragrance_heavy",5
+"Aqua, Parfum, Limonene, Benzyl Salicylate","fragrance_heavy",6
+"Aqua, Fragrance, Citronellol","fragrance_heavy",5
+"Aqua, Parfum, Coumarin, Citral","fragrance_heavy",6
+"Aqua, Lauric Acid, Palmitic Acid","fatty_acid",1
+"Aqua, Stearic Acid, Oleic Acid","fatty_acid",2
+"Aqua, Capric Acid, Caprylic Acid","fatty_acid",3
+"Aqua, Linoleic Acid, Myristic Acid","fatty_acid",1
+"Aqua, Palmitoleic Acid, Stearic Acid","fatty_acid",3
+"Aqua, Lauric Acid, Caprylic Acid","fatty_acid",1
+"Aqua, Behenic Acid, Arachidic Acid","fatty_acid",3
+"Aqua, Myristic Acid, Oleic Acid","fatty_acid",1
+"Aqua, Linoleic Acid, Palmitic Acid","fatty_acid",2
+"Aqua, Stearic Acid, Capric Acid","fatty_acid",3
+"Aqua, Petrolatum, Paraffin, Mineral Oil","emollient_heavy",4
+"Aqua, Shea Butter, Squalane","emollient_heavy",6
+"Aqua, Jojoba Oil, Cocoa Butter","emollient_heavy",4
+"Aqua, Sunflower Oil, Squalene","emollient_heavy",5
+"Aqua, Olive Oil, Caprylic/Capric Triglyceride","emollient_heavy",4
+"Aqua, Avocado Oil, Dimethicone","emollient_heavy",4
+"Aqua, Mango Seed Butter, Glycerin","emollient_heavy",3
+"Aqua, Shea Oil, Paraffin","emollient_heavy",4
+"Aqua, Almond Oil, Squalane","emollient_heavy",5
+"Aqua, Petrolatum, Mineral Oil","emollient_heavy",4
+"Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine","surfactant",4
+"Aqua, Decyl Glucoside, Sodium Lauroyl Sarcosinate","surfactant",6
+"Aqua, Sodium Cocoyl Isethionate, Coco-Betaine","surfactant",5
+"Aqua, Sodium Lauroyl Glutamate, Lauryl Glucoside","surfactant",7
+"Aqua, Sodium Lauryl Sulfate, Cocamide DEA","surfactant",4
+"Aqua, Coco-Glucoside, Glyceryl Oleate","surfactant",6
+"Aqua, Disodium Laureth Sulfosuccinate, Decyl Glucoside","surfactant",6
+"Aqua, Sodium Lauroyl Taurate, Coco-Betaine","surfactant",5
+"Aqua, Lauryl Glucoside, Cocamidopropyl Betaine","surfactant",6
+"Aqua, Sodium Cocoyl Sarcosinate, Coco-Glucoside","surfactant",7
+"Aqua, Phenoxyethanol, Ethylhexylglycerin","preservative",7
+"Aqua, Sodium Benzoate, Potassium Sorbate","preservative",6
+"Aqua, Chlorphenesin, Phenoxyethanol","preservative",7
+"Aqua, Benzyl Alcohol, Dehydroacetic Acid","preservative",5
+"Aqua, Phenoxyethanol, Caprylyl Glycol","preservative",7
+"Aqua, DMDM Hydantoin, Sodium Citrate","preservative",6
+"Aqua, Methylparaben, Propylparaben","preservative",8
+"Aqua, Imidazolidinyl Urea, Phenoxyethanol","preservative",7
+"Aqua, Sorbic Acid, Sodium Benzoate","preservative",6
+"Aqua, Diazolidinyl Urea, Benzyl Alcohol","preservative",6
+"Aqua, Glycerin, Sodium PCA, Sodium Hyaluronate, Panthenol","safe",9
+"Aqua, Niacinamide, Betaine, Oat Extract","safe",10
+"Aqua, Centella Extract, Allantoin, Trehalose","safe",9
+"Aqua, Betaine, Hyaluronic Acid, Glycerin","safe",9
+"Aqua, Marshmallow Extract, Panthenol, Sodium PCA","safe",8
+"Aqua, Aloe Extract, Glycerin, Madecassoside","safe",9
+"Aqua, Green Tea Extract, Betaine, Panthenol","safe",10
+"Aqua, Sodium Hyaluronate, Centella Extract","safe",9
+"Aqua, Trehalose, Panthenol, Aloe Gel","safe",9
+"Aqua, Betaine, Allantoin, Niacinamide","safe",10
+"Aqua, Dimethicone, Sorbitol, Fragrance","neutral",5
+"Aqua, Propanediol, Carbomer, Dimethicone","neutral",6
+"Aqua, PEG-40 Hydrogenated Castor Oil, Propylene Glycol","neutral",6
+"Aqua, Butylene Glycol, Triethanolamine, Dimethicone","neutral",7
+"Aqua, Dimethicone, Phenoxyethanol","neutral",6
+"Aqua, PEG-6 Caprylic/Capric Glycerides, Fragrance","neutral",5
+"Aqua, Carbomer, Dimethicone, Propanediol","neutral",6
+"Aqua, 1,2-Hexanediol, Dimethicone","neutral",7
+"Aqua, Sodium Citrate, PEG-40 Castor Oil","neutral",6
+"Aqua, Fragrance, PEG-20 Castor Oil","neutral",5
+"Aqua, Isopropyl Myristate, Polysorbate 60","malassezia_trigger",1
+"Aqua, Fragrance, Limonene, Citral","fragrance_heavy",5
+"Aqua, Parfum, Coumarin, Linalool","fragrance_heavy",6
+"Aqua, Fragrance, Hexyl Cinnamal","fragrance_heavy",5
+"Aqua, Parfum, Citronellol, Benzyl Salicylate","fragrance_heavy",6
+"Aqua, Fragrance, Cinnamal","fragrance_heavy",5
+"Aqua, Parfum, Eugenol, Limonene","fragrance_heavy",6
+"Aqua, Fragrance, Alpha-Isomethyl Ionone","fragrance_heavy",5
+"Aqua, Parfum, Geraniol, Linalool","fragrance_heavy",6
+"Aqua, Fragrance, Citral, Limonene","fragrance_heavy",5
+"Aqua, Parfum, Coumarin, Hexyl Cinnamal","fragrance_heavy",6
+"Aqua, Lauric Acid, Myristic Acid","fatty_acid",1
+"Aqua, Stearic Acid, Palmitic Acid","fatty_acid",2
+"Aqua, Capric Acid, Caprylic Acid","fatty_acid",3
+"Aqua, Oleic Acid, Linoleic Acid","fatty_acid",2
+"Aqua, Myristic Acid, Stearic Acid","fatty_acid",1
+"Aqua, Palmitic Acid, Behenic Acid","fatty_acid",3
+"Aqua, Caprylic Acid, Linolenic Acid","fatty_acid",3
+"Aqua, Lauric Acid, Oleic Acid","fatty_acid",1
+"Aqua, Palmitoleic Acid, Arachidic Acid","fatty_acid",2
+"Aqua, Capric Acid, Stearic Acid","fatty_acid",3
+"Aqua, Stearic Acid, Sorbitan Oleate","malassezia_trigger",2
+"Aqua, Myristyl Myristate, Polysorbate 80","malassezia_trigger",1
+"Aqua, Cetyl Alcohol, Oleic Acid","malassezia_trigger",2
+"Aqua, Lauric Acid, Myristic Acid","malassezia_trigger",0
+"Aqua, Oleyl Oleate, Cetyl Esters","malassezia_trigger",2
+"Aqua, Polysorbate 20, Stearyl Alcohol","malassezia_trigger",1
+"Aqua, Glyceryl Stearate, Oleic Acid","malassezia_trigger",2
+"Aqua, Sorbitan Stearate, Myristic Acid","malassezia_trigger",1
+"Aqua, Cetyl Alcohol, Polysorbate 80","malassezia_trigger",2
+"Aqua, Coconut Oil, Stearyl Alcohol","comedogenic",3
+"Aqua, Almond Oil, Cetyl Esters","comedogenic",4
+"Aqua, Shea Butter, Jojoba Oil","comedogenic",4
+"Aqua, Lanolin, Stearic Acid","comedogenic",5
+"Aqua, Wheat Germ Oil, Glyceryl Oleate","comedogenic",4
+"Aqua, Avocado Oil, Stearyl Alcohol","comedogenic",4
+"Aqua, Cocoa Butter, Myristyl Myristate","comedogenic",4
+"Aqua, Castor Oil, Lanolin Alcohol","comedogenic",4
+"Aqua, Rosehip Oil, Cetyl Alcohol","comedogenic",5
+"Aqua, Olive Oil, Stearic Acid","comedogenic",3
+"Aqua, Alcohol Denat, Menthol","irritant",3
+"Aqua, Limonene, Lemon Extract","irritant",4
+"Aqua, Phenoxyethanol, Tea Tree Oil","irritant",3
+"Aqua, Lavender Oil, Alcohol","irritant",4
+"Aqua, Cinnamon Bark Oil, Menthol","irritant",3
+"Aqua, Citrus Oil, Linalool","irritant",4
+"Aqua, Peppermint Oil, Alcohol","irritant",3
+"Aqua, Eucalyptus Oil, Camphor","irritant",4
+"Aqua, Witch Hazel, Alcohol","irritant",3
+"Aqua, Star Anise Oil, Alcohol Denat","irritant",3
+"Aqua, Petrolatum, Mineral Oil","emollient_heavy",4
+"Aqua, Shea Butter, Squalane","emollient_heavy",6
+"Aqua, Cocoa Butter, Sunflower Oil","emollient_heavy",4
+"Aqua, Almond Oil, Glycerin","emollient_heavy",5
+"Aqua, Paraffin, Jojoba Oil","emollient_heavy",4
+"Aqua, Olive Oil, Squalene","emollient_heavy",5
+"Aqua, Avocado Oil, Dimethicone","emollient_heavy",4
+"Aqua, Mango Seed Butter, Caprylic Triglyceride","emollient_heavy",3
+"Aqua, Mineral Oil, Shea Oil","emollient_heavy",4
+"Aqua, Cocoa Butter, Petrolatum","emollient_heavy",4
+"Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine","surfactant",4
+"Aqua, Decyl Glucoside, Sodium Lauroyl Sarcosinate","surfactant",6
+"Aqua, Sodium Cocoyl Isethionate, Coco-Betaine","surfactant",5
+"Aqua, Lauryl Glucoside, Coco-Glucoside","surfactant",6
+"Aqua, Sodium Lauroyl Taurate, Cocamidopropyl Betaine","surfactant",6
+"Aqua, Disodium Laureth Sulfosuccinate, Decyl Glucoside","surfactant",6
+"Aqua, Sodium Lauroyl Glutamate, Lauryl Glucoside","surfactant",7
+"Aqua, Coco-Glucoside, Glyceryl Oleate","surfactant",6
+"Aqua, Sodium Cocoyl Sarcosinate, Coco-Glucoside","surfactant",6
+"Aqua, Sodium Lauryl Sulfoacetate, Cocamidopropyl Betaine","surfactant",5
+"Aqua, Phenoxyethanol, Ethylhexylglycerin","preservative",7
+"Aqua, Sodium Benzoate, Potassium Sorbate","preservative",6
+"Aqua, Chlorphenesin, Phenoxyethanol","preservative",7
+"Aqua, Benzyl Alcohol, Dehydroacetic Acid","preservative",5
+"Aqua, Phenoxyethanol, Sorbic Acid","preservative",7
+"Aqua, DMDM Hydantoin, Sodium Citrate","preservative",6
+"Aqua, Diazolidinyl Urea, Phenoxyethanol","preservative",7
+"Aqua, Methylparaben, Propylparaben","preservative",8
+"Aqua, Potassium Sorbate, Sodium Citrate","preservative",6
+"Aqua, Phenoxyethanol, Ethylhexylglycerin, Sorbic Acid","preservative",7
+"Aqua, Glycerin, Sodium PCA, Niacinamide, Oat Extract","safe",9
+"Aqua, Hyaluronic Acid, Panthenol, Betaine","safe",10
+"Aqua, Centella Extract, Madecassoside, Allantoin","safe",9
+"Aqua, Glycerin, Trehalose, Sodium Hyaluronate","safe",9
+"Aqua, Aloe Vera, Panthenol, Sodium PCA","safe",8
+"Aqua, Marshmallow Root Extract, Betaine, Glycerin","safe",9
+"Aqua, Green Tea Extract, Panthenol, Allantoin","safe",10
+"Aqua, Sodium Hyaluronate, Centella Extract, Betaine","safe",9
+"Aqua, Urea, Glycerin, Aloe Extract","safe",8
+"Aqua, Niacinamide, Panthenol, Trehalose","safe",10
+"Aqua, Dimethicone, Carbomer, Fragrance","neutral",5
+"Aqua, Propanediol, PEG-40 Hydrogenated Castor Oil","neutral",6
+"Aqua, Dimethicone, Propylene Glycol, Phenoxyethanol","neutral",7
+"Aqua, Carbomer, Sorbitol, Dimethicone","neutral",6
+"Aqua, PEG-6 Caprylic/Capric Glycerides, Butylene Glycol","neutral",6
+"Aqua, Sodium Citrate, Dimethicone","neutral",7
+"Aqua, PEG-12 Dimethicone, Fragrance","neutral",5
+"Aqua, Propanediol, Carbomer, Dimethicone","neutral",6
+"Aqua, Phenoxyethanol, Triethanolamine, Dimethicone","neutral",5
+"Aqua, Sorbitol, PEG-40 Castor Oil","neutral",6
+"Aqua, Isopropyl Myristate, Polysorbate 60, Oleic Acid","malassezia_trigger",1
+"Aqua, Sorbitan Oleate, Lauric Acid","malassezia_trigger",2
+"Aqua, Cetyl Alcohol, Stearyl Alcohol, Polysorbate 80","malassezia_trigger",2
+"Aqua, Myristyl Myristate, Oleic Acid","malassezia_trigger",1
+"Aqua, Polysorbate 40, Stearic Acid","malassezia_trigger",2
+"Aqua, Glyceryl Stearate, Myristic Acid","malassezia_trigger",1
+"Aqua, Oleyl Alcohol, Polysorbate 20","malassezia_trigger",2
+"Aqua, Sorbitan Stearate, Oleic Acid","malassezia_trigger",1
+"Aqua, Polysorbate 65, Stearyl Alcohol","malassezia_trigger",2
+"Aqua, Lauric Acid, Myristic Acid, Stearic Acid","malassezia_trigger",0
+"Aqua, Shea Butter, Cetearyl Alcohol","comedogenic",4
+"Aqua, Olive Oil, Cetyl Palmitate","comedogenic",4
+"Aqua, Almond Oil, Stearic Acid","comedogenic",3
+"Aqua, Avocado Oil, Glyceryl Stearate","comedogenic",4
+"Aqua, Coconut Oil, Myristyl Myristate","comedogenic",3
+"Aqua, Lanolin, Stearyl Alcohol","comedogenic",5
+"Aqua, Wheat Germ Oil, Cocoa Butter","comedogenic",4
+"Aqua, Jojoba Oil, Cetyl Alcohol","comedogenic",4
+"Aqua, Castor Oil, Stearic Acid","comedogenic",4
+"Aqua, Palm Oil, Glyceryl Oleate","comedogenic",4
+"Aqua, Alcohol Denat, Menthol, Citrus Oil","irritant",3
+"Aqua, Lavender Oil, Limonene","irritant",4
+"Aqua, Eucalyptus Oil, Alcohol","irritant",3
+"Aqua, Tea Tree Oil, Menthol","irritant",4
+"Aqua, Peppermint Oil, Alcohol Denat","irritant",3
+"Aqua, Phenoxyethanol, Cinnamon Bark Oil","irritant",3
+"Aqua, Lemon Extract, Alcohol","irritant",4
+"Aqua, Star Anise Oil, Menthol","irritant",3
+"Aqua, Citrus Peel Oil, Alcohol","irritant",3
+"Aqua, Fragrance, Alcohol","irritant",4
+"Aqua, Fragrance, Limonene, Citronellol","fragrance_heavy",5
+"Aqua, Parfum, Linalool, Cinnamal","fragrance_heavy",6
+"Aqua, Fragrance, Geraniol, Hexyl Cinnamal","fragrance_heavy",5
+"Aqua, Parfum, Coumarin, Eugenol","fragrance_heavy",6
+"Aqua, Fragrance, Citral","fragrance_heavy",5
+"Aqua, Parfum, Alpha-Isomethyl Ionone","fragrance_heavy",6
+"Aqua, Fragrance, Benzyl Salicylate","fragrance_heavy",5
+"Aqua, Parfum, Citronellol, Limonene","fragrance_heavy",6
+"Aqua, Fragrance, Hexyl Cinnamal","fragrance_heavy",5
+"Aqua, Parfum, Linalool, Citral","fragrance_heavy",6
+"Aqua, Lauric Acid, Myristic Acid","fatty_acid",1
+"Aqua, Palmitic Acid, Stearic Acid","fatty_acid",2
+"Aqua, Oleic Acid, Linoleic Acid","fatty_acid",2
+"Aqua, Capric Acid, Caprylic Acid","fatty_acid",3
+"Aqua, Myristic Acid, Stearic Acid","fatty_acid",1
+"Aqua, Lauric Acid, Palmitic Acid","fatty_acid",1
+"Aqua, Linolenic Acid, Behenic Acid","fatty_acid",3
+"Aqua, Stearic Acid, Oleic Acid","fatty_acid",2
+"Aqua, Caprylic Acid, Linoleic Acid","fatty_acid",3
+"Aqua, Arachidic Acid, Palmitic Acid","fatty_acid",2
+"Aqua, Petrolatum, Shea Butter","emollient_heavy",4
+"Aqua, Squalane, Sunflower Oil","emollient_heavy",5
+"Aqua, Cocoa Butter, Jojoba Oil","emollient_heavy",4
+"Aqua, Paraffin, Almond Oil","emollient_heavy",4
+"Aqua, Olive Oil, Caprylic/Capric Triglyceride","emollient_heavy",4
+"Aqua, Mineral Oil, Shea Butter","emollient_heavy",5
+"Aqua, Avocado Oil, Dimethicone","emollient_heavy",4
+"Aqua, Mango Seed Butter, Glycerin","emollient_heavy",3
+"Aqua, Sunflower Oil, Squalene","emollient_heavy",5
+"Aqua, Cocoa Butter, Paraffin","emollient_heavy",4
+"Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine","surfactant",4
+"Aqua, Decyl Glucoside, Lauryl Glucoside","surfactant",6
+"Aqua, Sodium Cocoyl Isethionate, Coco-Glucoside","surfactant",5
+"Aqua, Sodium Lauroyl Taurate, Decyl Glucoside","surfactant",6
+"Aqua, Disodium Laureth Sulfosuccinate, Coco-Betaine","surfactant",5
+"Aqua, Sodium Lauryl Sulfate, Cocamide DEA","surfactant",4
+"Aqua, Lauryl Glucoside, Sodium Lauroyl Glutamate","surfactant",7
+"Aqua, Coco-Glucoside, Glyceryl Oleate","surfactant",6
+"Aqua, Sodium Cocoamphopropionate, Coco-Betaine","surfactant",6
+"Aqua, Sodium Methyl Cocoyl Taurate, Coco-Betaine","surfactant",6
+"Aqua, Phenoxyethanol, Ethylhexylglycerin","preservative",7
+"Aqua, Sodium Benzoate, Potassium Sorbate","preservative",6
+"Aqua, Chlorphenesin, Phenoxyethanol","preservative",7
+"Aqua, Benzyl Alcohol, Sorbic Acid","preservative",6
+"Aqua, Phenoxyethanol, Caprylyl Glycol","preservative",7
+"Aqua, Diazolidinyl Urea, Phenoxyethanol","preservative",7
+"Aqua, Methylparaben, Propylparaben","preservative",8
+"Aqua, Dehydroacetic Acid, Sodium Benzoate","preservative",6
+"Aqua, Phenoxyethanol, Ethylhexylglycerin, Sorbic Acid","preservative",7
+"Aqua, Benzyl Alcohol, Sodium Benzoate","preservative",5
+"Aqua, Glycerin, Panthenol, Allantoin, Green Tea Extract","safe",9
+"Aqua, Sodium Hyaluronate, Niacinamide, Betaine","safe",10
+"Aqua, Aloe Vera, Sodium PCA, Centella Extract","safe",9
+"Aqua, Panthenol, Trehalose, Oat Extract","safe",9
+"Aqua, Madecassoside, Glycerin, Allantoin","safe",8
+"Aqua, Sodium Hyaluronate, Chamomile Extract","safe",9
+"Aqua, Betaine, Aloe Extract, Panthenol","safe",10
+"Aqua, Glycerin, Centella Extract, Marshmallow Extract","safe",9
+"Aqua, Green Tea Extract, Niacinamide, Glycerin","safe",8
+"Aqua, Oat Extract, Trehalose, Allantoin","safe",10
+"Aqua, Dimethicone, Fragrance, Sorbitol","neutral",5
+"Aqua, Butylene Glycol, PEG-40 Castor Oil","neutral",6
+"Aqua, Propanediol, Dimethicone, Sodium Citrate","neutral",6
+"Aqua, Phenoxyethanol, Dimethicone, Carbomer","neutral",7
+"Aqua, PEG-12 Dimethicone, Fragrance","neutral",5
+"Aqua, Carbomer, Propanediol, Dimethicone","neutral",6
+"Aqua, PEG-6 Caprylic/Capric Glycerides, Triethanolamine","neutral",6
+"Aqua, Sorbitol, Dimethicone, Propylene Glycol","neutral",7
+"Aqua, Sodium Citrate, PEG-40 Hydrogenated Castor Oil","neutral",6
+"Aqua, 1,2-Hexanediol, Dimethicone","neutral",6
+"Aqua, Oleic Acid, Isopropyl Myristate","malassezia_trigger",1
+"Aqua, Lauric Acid, Sorbitan Oleate","malassezia_trigger",2
+"Aqua, Myristyl Myristate, Polysorbate 80","malassezia_trigger",2
+"Aqua, Stearic Acid, Polysorbate 20","malassezia_trigger",1
+"Aqua, Cetyl Alcohol, Oleyl Oleate","malassezia_trigger",2
+"Aqua, Polysorbate 65, Myristic Acid","malassezia_trigger",1
+"Aqua, Stearyl Alcohol, Oleic Acid","malassezia_trigger",2
+"Aqua, Glyceryl Stearate, Polysorbate 60","malassezia_trigger",1
+"Aqua, Sorbitan Stearate, Lauric Acid","malassezia_trigger",2
+"Aqua, Cetyl Alcohol, Polysorbate 40","malassezia_trigger",2
+"Aqua, Shea Butter, Cetyl Alcohol","comedogenic",4
+"Aqua, Cocoa Butter, Cetearyl Alcohol","comedogenic",4
+"Aqua, Almond Oil, Myristyl Myristate","comedogenic",4
+"Aqua, Olive Oil, Cetyl Palmitate","comedogenic",4
+"Aqua, Avocado Oil, Glyceryl Stearate","comedogenic",4
+"Aqua, Lanolin, Stearyl Alcohol","comedogenic",5
+"Aqua, Jojoba Oil, Cetyl Esters","comedogenic",4
+"Aqua, Castor Oil, Stearic Acid","comedogenic",4
+"Aqua, Palm Oil, Cetyl Alcohol","comedogenic",4
+"Aqua, Wheat Germ Oil, Lanolin Alcohol","comedogenic",5
+"Aqua, Alcohol Denat, Menthol","irritant",3
+"Aqua, Citrus Oil, Linalool","irritant",4
+"Aqua, Lavender Oil, Alcohol","irritant",4
+"Aqua, Peppermint Oil, Menthol","irritant",3
+"Aqua, Cinnamon Bark Oil, Alcohol","irritant",3
+"Aqua, Tea Tree Oil, Alcohol Denat","irritant",4
+"Aqua, Eucalyptus Oil, Camphor","irritant",3
+"Aqua, Star Anise Oil, Alcohol","irritant",3
+"Aqua, Citrus Peel Extract, Alcohol","irritant",4
+"Aqua, Fragrance, Alcohol","irritant",4
+"Aqua, Fragrance, Hexyl Cinnamal","fragrance_heavy",5
+"Aqua, Parfum, Linalool, Geraniol","fragrance_heavy",6
+"Aqua, Fragrance, Citronellol","fragrance_heavy",5
+"Aqua, Parfum, Benzyl Salicylate, Limonene","fragrance_heavy",6
+"Aqua, Fragrance, Citral","fragrance_heavy",5
+"Aqua, Parfum, Coumarin, Eugenol","fragrance_heavy",6
+"Aqua, Fragrance, Alpha-Isomethyl Ionone","fragrance_heavy",5
+"Aqua, Parfum, Hexyl Cinnamal, Citral","fragrance_heavy",6
+"Aqua, Fragrance, Geraniol, Citronellol","fragrance_heavy",5
+"Aqua, Parfum, Linalool, Cinnamal","fragrance_heavy",6
+"Aqua, Lauric Acid, Oleic Acid","fatty_acid",1
+"Aqua, Myristic Acid, Palmitic Acid","fatty_acid",2
+"Aqua, Stearic Acid, Linoleic Acid","fatty_acid",2
+"Aqua, Capric Acid, Caprylic Acid","fatty_acid",3
+"Aqua, Oleic Acid, Myristic Acid","fatty_acid",1
+"Aqua, Stearic Acid, Arachidic Acid","fatty_acid",3
+"Aqua, Palmitic Acid, Lauric Acid","fatty_acid",1
+"Aqua, Linoleic Acid, Behenic Acid","fatty_acid",3
+"Aqua, Caprylic Acid, Palmitic Acid","fatty_acid",2
+"Aqua, Stearic Acid, Capric Acid","fatty_acid",3
+"Aqua, Petrolatum, Mineral Oil","emollient_heavy",4
+"Aqua, Shea Butter, Squalane","emollient_heavy",6
+"Aqua, Cocoa Butter, Sunflower Oil","emollient_heavy",4
+"Aqua, Almond Oil, Glycerin","emollient_heavy",4
+"Aqua, Jojoba Oil, Paraffin","emollient_heavy",4
+"Aqua, Olive Oil, Dimethicone","emollient_heavy",5
+"Aqua, Avocado Oil, Mineral Oil","emollient_heavy",4
+"Aqua, Mango Seed Butter, Glycerin","emollient_heavy",3
+"Aqua, Sunflower Oil, Squalene","emollient_heavy",5
+"Aqua, Cocoa Butter, Paraffin","emollient_heavy",4
+"Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine","surfactant",4
+"Aqua, Decyl Glucoside, Lauryl Glucoside","surfactant",6
+"Aqua, Sodium Lauroyl Sarcosinate, Coco-Betaine","surfactant",5
+"Aqua, Coco-Glucoside, Glyceryl Oleate","surfactant",6
+"Aqua, Sodium Cocoyl Isethionate, Lauryl Glucoside","surfactant",6
+"Aqua, Disodium Laureth Sulfosuccinate, Decyl Glucoside","surfactant",5
+"Aqua, Sodium Lauroyl Taurate, Coco-Betaine","surfactant",6
+"Aqua, Sodium Lauryl Sulfate, Cocamide DEA","surfactant",4
+"Aqua, Sodium Cocoyl Sarcosinate, Coco-Betaine","surfactant",6
+"Aqua, Lauryl Glucoside, Sodium Lauroyl Glutamate","surfactant",7
+"Aqua, Phenoxyethanol, Ethylhexylglycerin","preservative",7
+"Aqua, Sodium Benzoate, Potassium Sorbate","preservative",6
+"Aqua, Chlorphenesin, Phenoxyethanol","preservative",7
+"Aqua, Benzyl Alcohol, Sorbic Acid","preservative",6
+"Aqua, Phenoxyethanol, Sorbic Acid","preservative",7
+"Aqua, Diazolidinyl Urea, Benzyl Alcohol","preservative",6
+"Aqua, Methylparaben, Propylparaben","preservative",8
+"Aqua, Imidazolidinyl Urea, Phenoxyethanol","preservative",7
+"Aqua, Dehydroacetic Acid, Sodium Benzoate","preservative",6
+"Aqua, Potassium Sorbate, Sodium Citrate","preservative",5
+"Aqua, Glycerin, Sodium PCA, Oat Extract, Panthenol","safe",9
+"Aqua, Hyaluronic Acid, Trehalose, Betaine","safe",10
+"Aqua, Centella Extract, Allantoin, Niacinamide","safe",9
+"Aqua, Aloe Vera, Panthenol, Sodium Hyaluronate","safe",9
+"Aqua, Glycerin, Green Tea Extract, Madecassoside","safe",10
+"Aqua, Sodium PCA, Chamomile Extract, Betaine","safe",8
+"Aqua, Niacinamide, Panthenol, Allantoin","safe",9
+"Aqua, Sodium Hyaluronate, Betaine, Aloe Extract","safe",10
+"Aqua, Trehalose, Panthenol, Centella Extract","safe",9
+"Aqua, Allantoin, Glycerin, Marshmallow Root Extract","safe",8
+"Aqua, Dimethicone, Sorbitol, Phenoxyethanol","neutral",6
+"Aqua, PEG-40 Castor Oil, Propanediol, Carbomer","neutral",6
+"Aqua, Fragrance, Dimethicone, Sodium Citrate","neutral",5
+"Aqua, Propylene Glycol, Dimethicone, Triethanolamine","neutral",7
+"Aqua, Carbomer, Butylene Glycol, PEG-12 Dimethicone","neutral",6
+"Aqua, PEG-6 Caprylic/Capric Glycerides, Fragrance","neutral",5
+"Aqua, Dimethicone, Propanediol, Phenoxyethanol","neutral",6
+"Aqua, Sorbitol, PEG-40 Hydrogenated Castor Oil","neutral",6
+"Aqua, 1,2-Hexanediol, Dimethicone","neutral",7
+"Aqua, Propanediol, Carbomer, Sodium Citrate","neutral",6
+"Aqua, Isopropyl Myristate, Polysorbate 60","malassezia_trigger",1
+"Aqua, Sorbitan Oleate, Lauric Acid","malassezia_trigger",2
+"Aqua, Myristyl Myristate, Oleic Acid","malassezia_trigger",1
+"Aqua, Polysorbate 80, Cetyl Alcohol","malassezia_trigger",2
+"Aqua, Stearic Acid, Polysorbate 20","malassezia_trigger",1
+"Aqua, Polysorbate 40, Myristic Acid","malassezia_trigger",2
+"Aqua, Glyceryl Stearate, Oleyl Alcohol","malassezia_trigger",2
+"Aqua, Cetyl Alcohol, Myristic Acid","malassezia_trigger",1
+"Aqua, Polysorbate 65, Stearyl Alcohol","malassezia_trigger",2
+"Aqua, Oleic Acid, Polysorbate 80","malassezia_trigger",1
+"Aqua, Shea Butter, Cetearyl Alcohol","comedogenic",4
+"Aqua, Cocoa Butter, Cetyl Alcohol","comedogenic",4
+"Aqua, Almond Oil, Myristyl Myristate","comedogenic",4
+"Aqua, Olive Oil, Stearic Acid","comedogenic",3
+"Aqua, Avocado Oil, Glyceryl Oleate","comedogenic",4
+"Aqua, Lanolin, Stearyl Alcohol","comedogenic",5
+"Aqua, Jojoba Oil, Cetyl Esters","comedogenic",4
+"Aqua, Castor Oil, Stearic Acid","comedogenic",4
+"Aqua, Palm Oil, Cetyl Alcohol","comedogenic",4
+"Aqua, Wheat Germ Oil, Lanolin Alcohol","comedogenic",5
+"Aqua, Alcohol Denat, Menthol","irritant",3
+"Aqua, Citrus Oil, Limonene","irritant",4
+"Aqua, Lavender Oil, Alcohol","irritant",4
+"Aqua, Peppermint Oil, Menthol","irritant",3
+"Aqua, Eucalyptus Oil, Camphor","irritant",3
+"Aqua, Cinnamon Bark Oil, Alcohol","irritant",3
+"Aqua, Tea Tree Oil, Alcohol","irritant",4
+"Aqua, Star Anise Oil, Alcohol Denat","irritant",3
+"Aqua, Citrus Peel Extract, Alcohol","irritant",4
+"Aqua, Fragrance, Alcohol Denat","irritant",4
+"Aqua, Fragrance, Hexyl Cinnamal","fragrance_heavy",5
+"Aqua, Parfum, Linalool, Coumarin","fragrance_heavy",6
+"Aqua, Fragrance, Limonene, Citral","fragrance_heavy",5
+"Aqua, Parfum, Benzyl Salicylate","fragrance_heavy",6
+"Aqua, Fragrance, Geraniol","fragrance_heavy",5
+"Aqua, Parfum, Citral, Limonene","fragrance_heavy",6
+"Aqua, Fragrance, Citronellol","fragrance_heavy",5
+"Aqua, Parfum, Eugenol, Linalool","fragrance_heavy",6
+"Aqua, Fragrance, Alpha-Isomethyl Ionone","fragrance_heavy",5
+"Aqua, Parfum, Hexyl Cinnamal, Citral","fragrance_heavy",6
+"Aqua, Lauric Acid, Stearic Acid","fatty_acid",1
+"Aqua, Myristic Acid, Oleic Acid","fatty_acid",1
+"Aqua, Palmitic Acid, Caprylic Acid","fatty_acid",2
+"Aqua, Linoleic Acid, Myristic Acid","fatty_acid",2
+"Aqua, Capric Acid, Caprylic Acid","fatty_acid",3
+"Aqua, Lauric Acid, Palmitic Acid","fatty_acid",1
+"Aqua, Stearic Acid, Arachidic Acid","fatty_acid",3
+"Aqua, Oleic Acid, Palmitoleic Acid","fatty_acid",2
+"Aqua, Myristic Acid, Linolenic Acid","fatty_acid",3
+"Aqua, Caprylic Acid, Stearic Acid","fatty_acid",3
+"Aqua, Petrolatum, Mineral Oil","emollient_heavy",4
+"Aqua, Shea Butter, Squalane","emollient_heavy",6
+"Aqua, Cocoa Butter, Jojoba Oil","emollient_heavy",4
+"Aqua, Almond Oil, Paraffin","emollient_heavy",4
+"Aqua, Avocado Oil, Caprylic/Capric Triglyceride","emollient_heavy",5
+"Aqua, Olive Oil, Dimethicone","emollient_heavy",4
+"Aqua, Mineral Oil, Shea Oil","emollient_heavy",4
+"Aqua, Mango Seed Butter, Glycerin","emollient_heavy",3
+"Aqua, Sunflower Oil, Squalene","emollient_heavy",5
+"Aqua, Cocoa Butter, Paraffin","emollient_heavy",4
+"Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine","surfactant",4
+"Aqua, Decyl Glucoside, Lauryl Glucoside","surfactant",6
+"Aqua, Sodium Lauroyl Sarcosinate, Coco-Betaine","surfactant",5
+"Aqua, Coco-Glucoside, Glyceryl Oleate","surfactant",6
+"Aqua, Sodium Cocoyl Isethionate, Lauryl Glucoside","surfactant",6
+"Aqua, Disodium Laureth Sulfosuccinate, Decyl Glucoside","surfactant",5
+"Aqua, Sodium Lauroyl Glutamate, Lauryl Glucoside","surfactant",7
+"Aqua, Coco-Betaine, Sodium Lauroyl Taurate","surfactant",6
+"Aqua, Sodium Cocoyl Sarcosinate, Coco-Glucoside","surfactant",6
+"Aqua, Sodium Methyl Cocoyl Taurate, Coco-Betaine","surfactant",5
+"Aqua, Phenoxyethanol, Ethylhexylglycerin","preservative",7
+"Aqua, Sodium Benzoate, Potassium Sorbate","preservative",6
+"Aqua, Chlorphenesin, Phenoxyethanol","preservative",7
+"Aqua, Benzyl Alcohol, Sorbic Acid","preservative",6
+"Aqua, Phenoxyethanol, Caprylyl Glycol","preservative",7
+"Aqua, Diazolidinyl Urea, Phenoxyethanol","preservative",7
+"Aqua, Methylparaben, Propylparaben","preservative",8
+"Aqua, Imidazolidinyl Urea, Benzyl Alcohol","preservative",6
+"Aqua, Dehydroacetic Acid, Sodium Benzoate","preservative",6
+"Aqua, Potassium Sorbate, Sodium Citrate","preservative",5
