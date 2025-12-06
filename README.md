@@ -1,4 +1,4 @@
-🧴 Fungal Acne Ingredient Classifier
+# DermaLens AI — Ingredient Risk Analyzer
 A full ML/NLP + Embedding-powered system for skincare ingredient analysis, similarity search & risk scoring.
 
 This project is a Streamlit-based machine learning app that analyzes skincare ingredient lists, predicts fungal-acne safety, highlights risky ingredients, and recommends similar products using BERT embeddings.
