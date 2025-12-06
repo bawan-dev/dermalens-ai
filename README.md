@@ -167,15 +167,3 @@ MIT License — free to use, modify, and share.
 ❤️ Acknowledgements
 
 Built by Bawan — inspired by the need for clearer ingredient transparency and better fungal acne education.
-
-
----
-
-If you'd like:
-
-🔥 A **README banner** with gradient  
-🔥 A **project logo**  
-🔥 A **demo GIF**  
-🔥 A version written like a startup product page  
-
-Just tell me — *“make the README look like a real SaaS product”* or *“make it more aesthetic”*.
