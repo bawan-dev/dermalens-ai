@@ -1,75 +1,109 @@
-# 🧴 Fungal Acne Ingredient Classifier  
-A lightweight machine-learning tool that analyses skincare ingredient lists and detects their fungal-acne safety, ingredient risks, and category classification — powered by a custom **10-class TF-IDF model** and optional **expert-mode explanations** using LIME.
+🧴 Fungal Acne Ingredient Classifier
 
-The app provides both:
-- **Human Mode** → simple, easy-to-understand results  
-- **Expert Mode** → probabilities, bar charts, and LIME explanation  
+A clean, modern machine-learning app that analyses skincare ingredient lists and predicts their fungal-acne safety, overall risk, and ingredient-level breakdown.
+Powered by a custom 10-class TF-IDF Logistic Regression model and optional Expert Mode with probabilities + LIME explainability.
 
-👉 **Live Demo:** *[Your Streamlit link here]*  
-👉 **GitHub Repo:** *[Your repo link here]*  
+✔️ Designed for both beginners and skincare experts
+✔️ Beautiful Apple-style UI
+✔️ Works entirely offline once deployed
 
----
+🔗 Live Links
 
-## 🚀 Features
+👉 Live Demo: [Add your Streamlit link here]
+👉 GitHub Repo: [Add your repo link here]
 
-### 🧠 Machine Learning  
-- Custom **TF-IDF + Logistic Regression multiclass model**  
-- 10 label taxonomy (safe, neutral, fungal-trigger, comedogenic, irritant, etc.)  
-- Expert probability breakdown + bar chart  
-- LIME local explanation showing which words influenced the prediction  
+🚀 Features
+🧠 Machine Learning Model
 
-### 🧴 Fungal Acne Safety  
-- Automatic rating from **0–10**  
-- Ingredient-level breakdown:  
-  - 🟢 Safe  
-  - 🟡 Mild / questionable  
-  - 🔴 Known fungal-acne triggers  
+Custom TF-IDF Vectorizer + Logistic Regression (10 classes)
 
-### 💄 Beautiful UI  
-- Clean, Apple-style interface  
-- Toggle between Human & Expert mode  
-- Soft cards, colour-coded badges, ingredient chips  
+Supports multi-class categories:
 
----
+safe
 
-## 🖼️ Screenshots
+neutral
 
-### 🏠 Home Page
+malassezia_trigger
+
+comedogenic
+
+irritant
+
+fatty_acid
+
+preservative
+
+surfactant
+
+emollient_heavy
+
+fragrance_heavy
+
+🧪 Ingredient Safety Engine
+
+Computes a fungal-acne score from 0–10
+
+Highlights risky ingredients:
+
+🟢 Safe
+
+🟡 Mild/questionable
+
+🔴 Known fungal-acne triggers
+
+🧬 Expert Mode (Optional)
+
+Includes:
+
+Class probability distribution
+
+Bar chart visualisation
+
+LIME explanation for model interpretability
+
+💄 UI & Experience
+
+Apple-style clean design
+
+Smooth cards, soft shadows, rounded chips
+
+Toggle button for beginner/expert views
+
+🖼️ Screenshots
+🏠 Home Page
 <img src="assets/screenshots/homepage.png" width="750"/>
-
----
-
-### 📊 Ingredient Analysis (Normal Mode)
+📊 Result Page (Normal Mode)
 <img src="assets/screenshots/result_page.png" width="750"/>
-
----
-
-### 🧪 Expert Mode (Probabilities + LIME)
+🧪 Expert Mode (Probabilities + LIME)
 <img src="assets/screenshots/expert_mode.png" width="750"/>
+🔍 How It Works
 
----
+User pastes their ingredient list
 
-## 🔍 How It Works
+Ingredients are cleaned + normalised
 
-1. User pastes a skincare ingredient list  
-2. Ingredients are cleaned, normalised, and tokenised  
-3. They are fed into the **TF-IDF model**  
-4. The model assigns one of 10 label categories  
-5. The app generates:
-   - Fungal acne risk score  
-   - Explanation of risk  
-   - Colour-coded ingredient chips  
-6. (Expert mode) Probabilities + LIME explanation  
+Text is passed through the TF-IDF model
 
----
+Model predicts a class label
 
-## 📦 Installation
+The app generates:
 
-Clone the repo:
+Fungal acne score
 
-```bash
+Risk explanation
+
+Ingredient-level tags
+
+Expert Mode shows probabilities + LIME explanation
+
+📦 Installation
+
+Clone the repository:
+
 git clone https://github.com/bawan-dev/fungal-acne-classifier.git
 cd fungal-acne-classifier
+
+
 Install dependencies:
 
 pip install -r requirements.txt
@@ -77,54 +111,69 @@ pip install -r requirements.txt
 ▶️ Run locally
 streamlit run src/app.py
 
-Your app will open at:
+
+Your app will open automatically at:
 
 http://localhost:8501
 
-🧠 Model Training (Optional)
+🧠 Training the Model (Optional)
 
-If you want to retrain the 10-class TF-IDF model:
+If you want to retrain the TF-IDF model:
 
 python -m src.train_tfidf
 
 
-The trained model will be saved to:
+The model updates here:
 
 /models/tfidf_multiclass_model.joblib
 
 ☁️ Deployment
-▶️ Streamlit Cloud
+🚀 Deploy to Streamlit Cloud
 
-Upload your repo
+Push your repo to GitHub
+
+Go to share.streamlit.io
+
+Select your repo
 
 Set Main file = src/app.py
 
-Add requirements.txt
-
 Deploy
 
-▶️ HuggingFace Spaces (recommended)
+🚀 Deploy to HuggingFace Spaces (Recommended)
 
-Use Streamlit template
+Create a new Space → Streamlit template
 
-Upload model + code
+Upload your entire repo
+
+Add requirements.txt
 
 Deploy instantly
 
+HuggingFace is faster and handles ML models better.
+
 🛠️ Tech Stack
-Component	Used
+Component	Technology Used
 ML Model	TF-IDF + Logistic Regression
 Language	Python 3.x
-Framework	Streamlit
+Frontend	Streamlit
 Explainability	LIME
-Data Handling	Pandas, NumPy
-Visualization	Streamlit native charts
+Data Processing	Pandas, NumPy
 Deployment	Streamlit Cloud / HuggingFace
-🧩 Project Structure
+📂 Project Structure
 fungal-acne-classifier/
+│
+├── assets/
+│   └── screenshots/
+│       ├── homepage.png
+│       ├── result_page.png
+│       └── expert_mode.png
 │
 ├── data/
 │   └── ingredients_multilabel.csv
+│
+├── logs/
+│   └── analysis_log.csv
 │
 ├── models/
 │   └── tfidf_multiclass_model.joblib
@@ -137,33 +186,28 @@ fungal-acne-classifier/
 │   ├── safety_score.py
 │   └── analytics.py
 │
-├── assets/
-│   └── screenshots/
-│       ├── homepage.png
-│       ├── result_page.png
-│       └── expert_mode.png
-│
 ├── requirements.txt
+├── LICENSE
 └── README.md
 
-🧭 Roadmap / Future Improvements
+🧭 Roadmap (Future Improvements)
 
-🔍 Add ingredient search engine
+🔍 Ingredients search engine
 
-🧬 Add deep learning model (BERT or DistilBERT fine-tuned)
+🧬 Upgrade to BERT/DistilBERT deep-learning model
 
 📲 Export results as PDF
 
-💾 User accounts & product history
+🧑‍🤝‍🧑 User accounts + saved analysis history
 
-📦 Add API endpoint
+📊 Dashboard of common ingredients + triggers
 
-📊 Dashboard of most common triggers
+💾 REST API endpoint
 
 📜 License
 
-MIT License — free to use, modify, and share.
+This project is licensed under the MIT License — free to modify, use, and share.
 
 ❤️ Acknowledgements
 
-Built by Bawan — inspired by the need for clearer ingredient transparency and better fungal acne education.
+Built by Bawan — inspired by the need for clearer ingredient transparency and better fungal-acne education using interpretable machine learning.
